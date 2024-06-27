@@ -7,7 +7,7 @@
 </picture>
 
 ![exAClior's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=exAClior&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=exAClior&show_icons=true&langs_count=16&layout=compact&theme=dracula&role=OWNER)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=exAClior&show_icons=true&langs_count=16&layout=compact&theme=dracula&role=OWNER&hide=jupyter%20notebook)
 <!--
 **exAClior/exAClior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
